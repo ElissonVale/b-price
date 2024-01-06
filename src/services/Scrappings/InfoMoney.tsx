@@ -1,6 +1,5 @@
 import httpClient from "../httpClient";
 import * as Fonts from './base/fonts.json'
-import { ResponseMoney } from "./types";
 
 type callBack = (price: string) => void
 
