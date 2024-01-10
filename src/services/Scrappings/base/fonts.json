@@ -1,4 +1,8 @@
 {
     "infoMoney": "https://www.infomoney.com.br/cotacoes/cripto/ativo/bitcoin-btc/",
-    "coinGecko": "https://www.coingecko.com/en/coins/bitcoin"
+    "coinGecko": "https://www.coingecko.com/en/coins/bitcoin",
+    "Binance": {
+        "Currencys": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency",
+        "Prices": "https://www.binance.com/fapi/v1/ticker/24hr"
+    }
 }
